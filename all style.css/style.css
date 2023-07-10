@@ -1,0 +1,85 @@
+/* common font styls */
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+/* header section style */
+nav{
+    background-color: #E554731A;
+    display: flex;
+
+    width: 1920px;
+}
+.main-title-section{
+    padding: 200px 100px 0px 250px;
+   
+}
+.main-title{
+    color: #272727;;
+    font-size: 70px;
+}
+.main-title-discription{
+    color: rgb(99, 113, 126);
+    width: 600px;
+    font-size: 20px;
+}
+.primary-btn{
+    padding: 20px 45px;
+    background-color:  #E55473;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+.image-section{
+    padding: 50px 240px 0 100px; 
+}
+/* Featured releted styles */
+.Featured-flowrs-item{
+margin-top: 180px;
+    text-align: center;
+}
+.Featured-flowrs-title{
+    font-size: 30px;
+    color: #272727;;
+}
+.featured-releted{
+    text-align: center;
+}
+/* featured flower related style */
+.flower-image {
+  margin-left: 240px;
+  
+}
+
+#flower-1{ 
+    padding: 110px 76px 0px 76px;
+    background: rgba(229, 84, 115, 0.10);
+    border-radius: 300px 300px 0px 0px;
+    margin-right: 24px;
+}
+    
+#flower-2{
+    padding: 117px 47px 51px 47px;
+    background:rgba(5, 151, 160, 0.15);    
+    border-radius: 300px 300px 0px 0px;
+    margin-right: 24px;
+}
+#flower-3{
+    padding: 67px 75px 0px 75px;
+    background:rgba(71, 125, 17, 0.15);    
+    border-radius: 300px 300px 0px 0px;
+}
+.flowers-item{
+    display: flex;
+    font-size: 24px;
+    list-style: none;
+}
+.pink{
+margin: 15px 307px 0px 340px;
+}
+.red{
+margin: 15px 290px 0px 0px;
+}
+.yellow{
+margin: 15px 307px 0px 35px;
+}
