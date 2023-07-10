@@ -37,6 +37,7 @@ nav{
 .Featured-flowrs-item{
 margin-top: 180px;
     text-align: center;
+    margin-bottom: 50px;
 }
 .Featured-flowrs-title{
     font-size: 30px;
@@ -82,4 +83,33 @@ margin: 15px 290px 0px 0px;
 }
 .yellow{
 margin: 15px 307px 0px 35px;
+}
+
+/* about section style */
+.about-section{
+    background: rgba(39, 39, 39, 0.05);
+    width: 1440px;
+height: 320px;
+margin-left: 240px;
+margin-top: 150px;
+padding-top: 20px;
+}
+.delivary-image{ 
+    margin-left: 300px;
+    margin-top: 80px;
+    display: flex;
+}
+.delivary-image img {
+    margin-right: 270px;
+ }
+
+.content{
+    display: flex;
+    margin-left: 230px;
+}
+.content p {
+    margin-right: 120px;
+}
+.content .support {
+    margin-right: 195px;
 }
