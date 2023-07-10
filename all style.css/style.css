@@ -1,115 +1,219 @@
 /* common font styls */
-body{
+body {
     font-family: 'Lato', sans-serif;
 }
 
 /* header section style */
-nav{
+nav {
     background-color: #E554731A;
     display: flex;
 
     width: 1920px;
 }
-.main-title-section{
+
+.main-title-section {
     padding: 200px 100px 0px 250px;
-   
+
 }
-.main-title{
-    color: #272727;;
+
+.main-title {
+    color: #272727;
+    ;
     font-size: 70px;
 }
-.main-title-discription{
+
+.main-title-discription {
     color: rgb(99, 113, 126);
     width: 600px;
     font-size: 20px;
 }
-.primary-btn{
+
+.primary-btn {
     padding: 20px 45px;
-    background-color:  #E55473;
+    background-color: #E55473;
     border-radius: 10px;
     color: white;
     border: none;
 }
-.image-section{
-    padding: 50px 240px 0 100px; 
+
+.image-section {
+    padding: 50px 240px 0 100px;
 }
+
 /* Featured releted styles */
-.Featured-flowrs-item{
-margin-top: 180px;
+.Featured-flowrs-item {
+    margin-top: 180px;
     text-align: center;
     margin-bottom: 50px;
 }
-.Featured-flowrs-title{
+
+.Featured-flowrs-title {
     font-size: 30px;
-    color: #272727;;
-}
-.featured-releted{
-    text-align: center;
-}
-/* featured flower related style */
-.flower-image {
-  margin-left: 240px;
-  
+    color: #272727;
+    ;
 }
 
-#flower-1{ 
+.featured-releted {
+    text-align: center;
+}
+
+/* featured flower related style */
+.flower-image {
+    margin-left: 240px;
+
+}
+
+#flower-1 {
     padding: 110px 76px 0px 76px;
     background: rgba(229, 84, 115, 0.10);
     border-radius: 300px 300px 0px 0px;
     margin-right: 24px;
 }
-    
-#flower-2{
+
+#flower-2 {
     padding: 117px 47px 51px 47px;
-    background:rgba(5, 151, 160, 0.15);    
+    background: rgba(5, 151, 160, 0.15);
     border-radius: 300px 300px 0px 0px;
     margin-right: 24px;
 }
-#flower-3{
+
+#flower-3 {
     padding: 67px 75px 0px 75px;
-    background:rgba(71, 125, 17, 0.15);    
+    background: rgba(71, 125, 17, 0.15);
     border-radius: 300px 300px 0px 0px;
 }
-.flowers-item{
+
+.flowers-item {
     display: flex;
     font-size: 24px;
     list-style: none;
 }
-.pink{
-margin: 15px 307px 0px 340px;
+
+.pink {
+    margin: 15px 307px 0px 340px;
 }
-.red{
-margin: 15px 290px 0px 0px;
+
+.red {
+    margin: 15px 290px 0px 0px;
 }
-.yellow{
-margin: 15px 307px 0px 35px;
+
+.yellow {
+    margin: 15px 307px 0px 35px;
 }
 
 /* about section style */
-.about-section{
+.about-section {
     background: rgba(39, 39, 39, 0.05);
     width: 1440px;
-height: 320px;
-margin-left: 240px;
-margin-top: 150px;
-padding-top: 20px;
+    height: 320px;
+    margin-left: 240px;
+    margin-top: 150px;
+    padding-top: 20px;
 }
-.delivary-image{ 
+
+.delivary-image {
     margin-left: 300px;
     margin-top: 80px;
     display: flex;
 }
+
 .delivary-image img {
     margin-right: 270px;
- }
+}
 
-.content{
+.content {
     display: flex;
     margin-left: 230px;
 }
+
 .content p {
     margin-right: 120px;
 }
+
 .content .support {
     margin-right: 195px;
+}
+
+/* hot offer of main section style */
+.hot-model-section {
+    margin-top: 125px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.free-section-title {
+    color: #272727;
+    font-size: 40px;
+    text-align: center;
+}
+
+.free-section-detail {
+    color: #27272799;
+    text-align: center;
+}
+
+.free-details {
+    margin: 230px 215px 160px 423px;
+}
+
+.rose-image {
+    margin: 100px 430px 100px 0;
+}
+
+#singup {
+    margin-left: 200px;
+}
+
+/* contact releted styles */
+.social-option {
+    text-align: center;
+}
+
+.Instagram {
+    font-size: 40px;
+}
+
+.social-releted {
+    font-size: 20px;
+}
+
+.some-difarent-flowers {
+    margin-left: 240px;
+}
+
+.some-difarent-flowers img {
+    margin-right: 24px;
+}
+
+/* last main section styls */
+.last-details {
+    margin-top: 128px;
+    margin-left: 240px;
+    background-repeat: no-repeat;
+    padding-top: 122px;
+    width: 1440px;
+    height: 450px;
+    background-image: url('../all image/Rectangle 9.png')
+}
+
+.last-details-heading {
+    font-size: 40px;
+    text-align: center;
+}
+
+.last-details-para {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.email {
+    width: 700px;
+    height: 64px;
+    background-color: white;
+    color: black;
+    border: none;
+    margin-left: 287px;
 }
