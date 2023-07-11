@@ -152,12 +152,14 @@ nav {
     color: #272727;
     font-size: 40px;
     text-align: center;
+    margin-bottom: 10px;
 }
 
 
 .free-section-detail {
-    color: #27272799;
+    color: #08080899;
     text-align: center;
+    font-size: 20px;
 }
 
 .free-details {
@@ -169,7 +171,8 @@ nav {
 }
 
 #singup {
-    margin-left: 200px;
+    margin-top: 20px;
+    margin-left: 180px;
 }
 
 /* contact releted styles */
