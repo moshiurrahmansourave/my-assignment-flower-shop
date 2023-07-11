@@ -217,3 +217,28 @@ nav {
     border: none;
     margin-left: 287px;
 }
+/* all footer style */
+.footer-section{
+    text-align: center;
+    background-color: #161515;;
+    padding-top: 125px;
+    padding-bottom: 125px;
+    width: 1922px;
+}
+.basic-colore{
+   color:  #E55473;
+}
+.footer-title{
+    font-size: 48px;
+    color: white;
+}
+.footer-discription{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+   
+}
+.footer-last-discription{
+    font-size: 15px;
+    color: wheat;
+    
+}
