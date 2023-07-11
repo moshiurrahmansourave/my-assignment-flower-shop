@@ -26,7 +26,7 @@ nav {
     color: rgb(99, 113, 126);
     width: 600px;
     font-size: 20px;
-    
+
 }
 
 .primary-btn {
@@ -175,6 +175,52 @@ nav {
     margin-left: 180px;
 }
 
+/* advance section styles */
+.advance {}
+
+.advance h2 {
+    font-size: 60px;
+    text-align: center;
+    color: #e0254e;
+    
+}
+
+.advance .advance-image-section {
+    display: flex;
+    margin-left: 200px;
+}
+
+.advance .advance-image-section img {
+    margin-right: 20px;
+    box-shadow: 0px 0px 10px 0px
+}
+
+.a-some-writing{
+    display: flex;
+    margin-left: 340px;
+}
+.a-some-writing p {
+    text-align: center;
+    font-size: 30px;
+    color: #E55473;
+    margin-top: 5px;
+    
+}
+/* asvance image title releted style */
+
+     .a-red-ti{
+        margin-right: 250px;
+     }
+     .a-pink-ti{
+ 
+      margin-left: 220px;
+     }
+     .a-allof-ti{
+        margin-left: 235px;
+     }
+
+
+
 /* contact releted styles */
 .social-option {
     text-align: center;
@@ -199,7 +245,7 @@ nav {
 
 .some-difarent-flowers img {
     margin-right: 24px;
-    
+
 }
 
 /* last main section styls */
@@ -235,28 +281,34 @@ nav {
     padding-left: 20px;
     margin-right: 10px;
 }
+
 /* all footer style */
-.footer-section{
+.footer-section {
     text-align: center;
-    background-color: #161515;;
+    background-color: #161515;
+    ;
     padding-top: 125px;
     padding-bottom: 125px;
     width: 1922px;
 }
-.basic-colore{
-   color:  #E55473;
+
+.basic-colore {
+    color: #E55473;
 }
-.footer-title{
+
+.footer-title {
     font-size: 48px;
     color: white;
 }
-.footer-discription{
+
+.footer-discription {
     font-size: 20px;
     color: rgb(255, 255, 255);
-   
+
 }
-.footer-last-discription{
+
+.footer-last-discription {
     font-size: 15px;
     color: wheat;
-    
+
 }
