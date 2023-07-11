@@ -62,6 +62,7 @@ nav {
 
 /* featured flower related style */
 .flower-image {
+    display: flex;
     margin-left: 240px;
 
 }
@@ -190,10 +191,12 @@ nav {
 
 .some-difarent-flowers {
     margin-left: 240px;
+    display: flex;
 }
 
 .some-difarent-flowers img {
     margin-right: 24px;
+    
 }
 
 /* last main section styls */
